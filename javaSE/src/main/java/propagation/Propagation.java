@@ -1,3 +1,5 @@
+package propagation;
+
 /**
  * Created by haoranchen on 2016/1/21.
  *  对于方法中的入参，都是传递一份copy
