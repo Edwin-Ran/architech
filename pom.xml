@@ -11,8 +11,9 @@
     <modules>
         <module>netty</module>
         <module>javaSE</module>
-        <module>jvm</module>
         <module>spring</module>
+        <module>shiro</module>
+        <module>jvm</module>
     </modules>
 
 
