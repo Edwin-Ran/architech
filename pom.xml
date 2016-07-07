@@ -17,6 +17,7 @@
         <module>log</module>
         <module>zookeeper</module>
         <module>guice</module>
+        <module>elasticsearch</module>
     </modules>
 
 
